@@ -1,0 +1,9 @@
+body{
+  background-image: url(../img/fondo1.jpg);
+}
+
+.row .logo{
+  padding: 20px;
+  border-radius: 30px;
+  width: 60%;
+}
