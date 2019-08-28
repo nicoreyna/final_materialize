@@ -1,9 +1,14 @@
 body{
   background-image: url(../img/fondo1.jpg);
+  width: 100%;
 }
 
 .row .logo{
-  padding: 20px;
+  margin-top: 15px;
   border-radius: 30px;
-  width: 60%;
+  width: 90%;
+}
+
+.section{
+  padding-bottom: 0px;
 }
