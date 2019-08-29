@@ -1,5 +1,6 @@
 body{
   background-image: url(../img/fondo1.jpg);
+  background-attachment: fixed;
   width: 100%;
 }
 
@@ -11,4 +12,39 @@ body{
 
 .section{
   padding-bottom: 0px;
+}
+
+.side-bar{
+  display: inline-flex;
+  flex-direction: column;
+  padding: 10px;
+  width: 15px;
+}
+
+.side-bar a{
+    margin-bottom: 10px;
+}
+
+.card-image{
+  margin-top: -8px;
+}
+
+.vertical img{
+  height:575px;
+}
+
+.entrada img{
+  width: 250px;
+  margin-right: 15px;
+}
+
+.entrada, .entrada-2{
+  background-color: white;
+  margin: 10px;
+  padding-bottom: 25px;
+}
+
+.entrada-2 img{
+  width: 200px;
+  margin-top: 30px;
 }
